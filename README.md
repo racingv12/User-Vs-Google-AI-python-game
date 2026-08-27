@@ -21,8 +21,8 @@ Hands are scored by a custom evaluator that ranks all standard poker hands and b
 ## Getting started
 
 ```bash
-git clone https://github.com/yourusername/reponame.git
-cd reponame
+git clone https://github.com/racingv12/User-Vs-Google-AI-python-game.git
+cd User-Vs-Google-AI-python-game
 pip install google-generativeai
 python main.py
 ```
